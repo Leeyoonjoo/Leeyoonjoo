@@ -25,7 +25,7 @@
     <div style="text-align: left;">
         <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🤸‍♀️ Activity </h2>
         <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> 
-            Cyber Security Club (EVI$ION) on campus - 2023.03.09 ~ 2026.02.13
+            <li>Cyber Security Club (EVI$ION) on campus - 2023.03.09 ~ 2026.02.13</li>
         </div>
     </dive>
     <div style="text-align: left;">
@@ -45,8 +45,11 @@
        </div> 
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=LeeYoonJoo&bg_color=60,65eaec,027500&title_color=ffffff&text_color=ffffff"
-         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeeYoonJoo&layout=compact&bg_color=60,65eaec,027500&title_color=ffffff&text_color=ffffff"
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> 
+        <div align= "center"> 
+            <img src="https://github-readme-stats.vercel.app/api?username=LeeYoonJoo&bg_color=60,65eaec,027500&title_color=ffffff&text_color=ffffff"
+         /> 
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeeYoonJoo&layout=compact&bg_color=60,65eaec,027500&title_color=ffffff&text_color=ffffff"
            /> </div> 
     </div>
     
