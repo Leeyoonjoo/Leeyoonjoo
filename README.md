@@ -23,6 +23,9 @@
           </div>
     </div>
     <div style="text-align: left;">
+        <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Activity 🤸‍♀️ </h2> <br>
+    </dive>
+    <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br> 
     <div align= "center"> <a href=https://successing.tistory.com/> <img src="https://img.shields.io/badge/Tistory-000000?style=plastic&logo=Tistory&logoColor=white&link=https://successing.tistory.com/"> </a>
          <a href=mailto:y00nzoo@ewhain.net> <img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=Gmail&logoColor=white&link=mailto:y00nzoo@ewhain.net"> </a>
