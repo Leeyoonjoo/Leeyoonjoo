@@ -25,7 +25,7 @@
     <div style="text-align: left;">
         <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🤸‍♀️ Activity </h2> <br>
         <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> 
-            <li> Cyber Security Club (EVI$ION) on campus - 2023.03.09 ~ 2026.02.13 </li>
+            Cyber Security Club (EVI$ION) on campus - 2023.03.09 ~ 2026.02.13
         </div>
     </dive>
     <div style="text-align: left;">
