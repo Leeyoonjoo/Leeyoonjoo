@@ -47,6 +47,16 @@
         </div>
     </dive>
     <div style="text-align: left;">
+        <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🎊 Awards </h2>
+        <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> 
+            <div align= "left"> 
+                <ul>
+                  I won excellence prize at the Deepfake Fake News Countermeasure Policy Idea Contest
+                </ul>
+            </div>
+        </div>
+    </dive>
+    <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br> 
     <div align= "center"> 
         <a href=https://successing.tistory.com/> 
