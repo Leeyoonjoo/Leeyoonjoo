@@ -25,7 +25,13 @@
     <div style="text-align: left;">
         <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🤸‍♀️ Activity </h2>
         <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> 
-            <li>Cyber Security Club (EVI$ION) on campus - 2023.03.09 ~ 2026.02.13</li>
+            <div align= "center"> 
+                <li> WhiteHat School 1th - 2023.09. ~ 2024.03. </li>
+                <li> LG Aimers 6th - 2025.01. ~ 2025.02. </li>
+                <li> Cyber Security Club (EVI$ION) on campus - 2023.03. ~ 2026.02. </li>
+                <li> Google Developer Groups on EWHA (Django part) - 2024.09. ~ 2025.02 </li>
+                <li> Team D4rkn3ttz - 2024.09 ~ ing </li>
+            </div>
         </div>
     </dive>
     <div style="text-align: left;">
