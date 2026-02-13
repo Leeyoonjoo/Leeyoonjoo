@@ -3,7 +3,7 @@
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Introduce </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> Hello, My name is Yoonjoo Lee. </li>To be cyber security analysist, I'm studying ways to analyze leaked sensitive datas in a DarkWeb Forum and records forensics memories, Disks of many devices for countermeasure. </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> Hello, My name is Yoonjoo Lee. </li>To be cyber security analysist, I'm studying ways to analyze leaked sensitive datas in a DarkWeb Forum and record forensics memories, Disks of many devices for countermeasure. </div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
