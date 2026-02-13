@@ -23,17 +23,25 @@
           </div>
     </div>
     <div style="text-align: left;">
-        <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🤸‍♀️ Activity </h2> <br>
+        <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🤸‍♀️ Activity </h2>
         <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> 
             Cyber Security Club (EVI$ION) on campus - 2023.03.09 ~ 2026.02.13
         </div>
     </dive>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br> 
-    <div align= "center"> <a href=https://successing.tistory.com/> <img src="https://img.shields.io/badge/Tistory-000000?style=plastic&logo=Tistory&logoColor=white&link=https://successing.tistory.com/"> </a>
-         <a href=mailto:y00nzoo@ewhain.net> <img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=Gmail&logoColor=white&link=mailto:y00nzoo@ewhain.net"> </a>
-          </div>  <br> 
-    <div align= "center"> <a href="https://hits.seeyoufarm.com"> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLeeYoonJoo%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a>
+    <div align= "center"> 
+        <a href=https://successing.tistory.com/> 
+            <img src="https://img.shields.io/badge/Tistory-000000?style=plastic&logo=Tistory&logoColor=white&link=https://successing.tistory.com/"> 
+        </a>
+         <a href=mailto:y00nzoo@ewhain.net> 
+             <img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=Gmail&logoColor=white&link=mailto:y00nzoo@ewhain.net"> 
+         </a>
+    </div> <br> 
+    <div align= "center"> 
+        <a href="https://hits.seeyoufarm.com"> 
+            <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLeeYoonJoo%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/>
+        </a>
        </div> 
     </div>
     <div style="text-align: left;"> 
