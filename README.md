@@ -41,7 +41,7 @@
                   <li>LG Aimers 6th - 2025.01. ~ 2025.02.</li>
                   <li>Cyber Security Club (EVI$ION) on campus - 2023.03. ~ 2026.02.</li>
                   <li>Google Developer Groups on EWHA (Django part member) - 2024.09. ~ 2025.02</li>
-                  <li>Google Developer Groups on EWHA (Devrel Core member) - 2024.09. ~ 2025.02</li>
+                  <li>Google Developer Groups on EWHA (Devrel Core member) - 2025.09 ~ ing </li>
                   <li>Team D4rkn3ttz - 2024.09 ~ ing</li>
                 </ul>
             </div>
