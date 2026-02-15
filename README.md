@@ -43,6 +43,7 @@
                   <li>Google Developer Groups on EWHA (Django part member) - 2024.09. ~ 2025.06.</li>
                   <li>Google Developer Groups on EWHA (Devrel Core member) - 2025.09. ~ ing </li>
                   <li>Team D4rkn3ttz - 2024.09. ~ ing</li>
+                  <li>EWHA Womans University undergraduate research student (@SApp Laboratory) - 2026.03. ~ </li>
                 </ul>
             </div>
         </div>
