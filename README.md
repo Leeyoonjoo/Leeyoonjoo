@@ -27,7 +27,7 @@
         <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> 
             <div align= "left"> 
                 <ul>
-                    <li> Major in <a href="https://myr.ewha.ac.kr/security/index.do">Cyber Security</a>, EWHA Womans University - 2023.03. ~ 2026.08 </li>
+                    <li> Major in <a href="https://myr.ewha.ac.kr/security/index.do">Cyber Security</a>, EWHA Womans University - 2023.03. ~ 2026.08 (졸업예정) </li>
                 </ul>
             </div>
         </div>
