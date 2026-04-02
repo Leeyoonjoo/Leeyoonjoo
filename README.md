@@ -67,6 +67,9 @@
          <a href=mailto:y00nzoo@ewhain.net> 
              <img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=Gmail&logoColor=white&link=mailto:y00nzoo@ewhain.net"> 
          </a>
+        <a href="https://www.linkedin.com/in/leeyoonjoo/">
+              <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn">
+        </a>
     </div> <br> 
     <div align= "center"> 
         <a href="https://hits.seeyoufarm.com"> 
