@@ -71,18 +71,5 @@
               <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn">
         </a>
     </div> <br> 
-    <div align= "center"> 
-        <a href="https://hits.seeyoufarm.com"> 
-            <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLeeYoonJoo%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/>
-        </a>
-       </div> 
-    </div>
-    <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> 
-        <div align= "center"> 
-            <img src="https://github-readme-stats.vercel.app/api?username=LeeYoonJoo&bg_color=60,65eaec,027500&title_color=ffffff&text_color=ffffff"
-         /> 
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeeYoonJoo&layout=compact&bg_color=60,65eaec,027500&title_color=ffffff&text_color=ffffff"
-           /> </div> 
-    </div>
+
     
